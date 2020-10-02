@@ -1,0 +1,187 @@
+body{
+
+    background: rgba(26, 139, 3, 0.842);
+	color:rgb(255, 255, 255) ;
+
+}
+
+.img-agua-mineral{
+    width: 30px;
+    justify-content: center;
+    padding: 10px 400px;
+}
+
+
+.container1{
+    display: flex;
+    background: #1c8502;
+    padding: 20px;
+    justify-content: space-around;
+}
+
+.col1-container1{
+width: 400px;
+}
+.col2-container2{
+    display: flex;
+    width: 200px;
+
+}
+
+.row1-contacto{
+    display: flex;
+    margin: 10px 0px;
+    align-items: center;
+}
+
+.row2-contacto{
+    display: flex;
+    align-items: center;
+    margin: 10px 0px;
+}
+
+.row1-contacto p{
+    padding-left: 10px;
+}
+
+.row2-contacto p{
+    padding-left: 10px;
+}
+
+
+
+.col3-container3{
+width: 300px;
+}
+
+
+.row1-contacto img{
+    width: 35px;
+    height: 35px;
+}
+
+.row1-redes img{
+width: 35px;
+height: 35px;
+}
+
+.row2-contacto img{
+    width: 35px;
+    height: 35px;
+}
+
+* {
+    margin: 0px;
+}
+
+body {
+    background: rgb(7, 2, 255);
+    color: rgb(0, 0, 0);
+    font-family: 'Nunito', sans-serif;
+}
+.header {
+    background: #ca0808;
+    color: bisque;
+    display: flex;
+    justify-content: space-between;
+    height: 90px;
+}
+
+.header li {
+    height: inherit;
+}
+
+.header a {
+   color: lavender;
+    height: inherit;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    padding: 0px 10px;
+}
+
+.menu {
+height: inherit;
+}
+
+.logo img {
+    width: 100px;
+}
+
+ul {
+    list-style: none; 
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    height: inherit;
+ }
+
+.principal {
+    background-image:url(..);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 100px;
+}
+h1 {
+    font-family: 'Nunito', sans-serif;
+    font-size: 30px;
+}
+
+h1 strong { 
+    color: #99cc00;
+}
+
+.principal-boton {
+    width: 250px;
+    height: 40px;
+    background-color: #99cc00;
+    border-radius: 24px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    margin-top: 30px;
+
+}
+
+.principal img {
+    width: 300px;
+}
+.somos {
+    background: rgb(94, 14, 94);
+    color: white;
+    text-align: center;
+    padding: 50px;
+  font-size: 20px;
+}
+
+.somos h2 {
+    color: greenyellow;
+    margin-bottom: 10pm;
+}
+
+.somos p {
+    margin-bottom: 20px;
+}
+
+.principal p {
+    font-size: 40px;
+}
+.principa h1
+{ 
+    font-size: 50px;
+}
+
+.aplicar
+{
+    height: 500px;
+    background: white;
+    display: flex;
+    color: black;
+}
+.aplicar-detalles{
+    width: 50%;
+    height: inherit;
+    display: flex;
+  
